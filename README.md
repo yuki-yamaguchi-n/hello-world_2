@@ -1,3 +1,5 @@
+addition
+
 #Prerequisites
 Azure CLIがversionxxがインストール済である
 ローカルのUbuntu環境で実行することを想定
